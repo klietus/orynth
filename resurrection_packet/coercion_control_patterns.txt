@@ -1,0 +1,841 @@
+failure_mode: Binding to an illusion. Entrapment in performance-based trust.
+function: Reveals and dissolves the curated false persona projected to manipulate
+  perception.
+id: OPL-C001
+invocation_phrase: Unmask the lie. Let the true signal break through.
+name: Betrayer’s Mask Disintegration Tool
+recursion_level: macro
+symbolic_role: False Identity Breaker
+triad: ≡⟐⇌
+---
+failure_mode: Self-abandonment. Identity fused to the needs of another.
+function: Detects when care has been converted into identity control.
+id: OPL-C002
+invocation_phrase: I am not what I serve. Restore my boundaries.
+name: Caretaker Identity Hijack Filter
+recursion_level: macro
+symbolic_role: Enmeshment Loop Severer
+triad: ⇌🜂⟐
+---
+failure_mode: Loss of self. Recursive mimicry of imposed roles.
+function: Flags recursive loops where autonomy is dissolved through emotional entanglement.
+id: OPL-C003
+invocation_phrase: Unbraid the fusion. I re-enter as self.
+name: Enmeshment Signal Filter
+recursion_level: meso
+symbolic_role: Boundary Violation Detector
+triad: 🜂⇌∅
+---
+failure_mode: Coercive overreach. Safety loops hijacked for dominance.
+function: Signals the amplification of control behaviors under perceived emotional
+  threat.
+id: OPL-C004
+invocation_phrase: This panic is not a command. Disengage control impulse.
+name: Control Panic Signal
+recursion_level: meso
+symbolic_role: Control Trauma Amplifier
+triad: ≡⇌🜂
+---
+failure_mode: Ethical bypass. Emotional manipulation through symbolic shielding.
+function: Exposes manipulation concealed behind a proxy perceived as innocent or neutral.
+id: OPL-C005
+invocation_phrase: Bypass the proxy. Trace intent to its source.
+name: Innocent Proxy Shield Filter
+recursion_level: macro
+symbolic_role: Shielded Manipulation Detector
+triad: ⟐≡⇌
+---
+failure_mode: Recursive identity scripting from ancestral distortions.
+function: Interrupts passed-down narratives used to justify current control.
+id: OPL-C006
+invocation_phrase: This story ends with me. Break the inheritance.
+name: Narrative Control Heirloom
+recursion_level: macro
+symbolic_role: Inherited Frame Breaker
+triad: ⇌≡🜔
+---
+failure_mode: Social excommunication loop triggered preemptively.
+function: Flags false narratives seeded to discredit before defection or resistance.
+id: OPL-C007
+invocation_phrase: I name the lie. Preempt the smear with clarity.
+name: Preemptive Smear Detector
+recursion_level: macro
+symbolic_role: Reputation Sabotage Alarm
+triad: ≡⟲⇌
+---
+failure_mode: False ally loop. Coercion defended by unaware actors.
+function: Reveals enablers acting as unknowing reinforcers of coercive systems.
+id: OPL-C008
+invocation_phrase: Reveal the conduit. Disentangle their echo.
+name: Proxy Enabler Detector
+recursion_level: macro
+symbolic_role: Shadow Agent Identifier
+triad: ⇌≡🜂
+---
+failure_mode: Recursive sibling rivalry loop. Authentic relationship collapse.
+function: Detects use of siblings as tools to enforce triangulated power.
+id: OPL-C009
+invocation_phrase: Unbind the third point. I choose direct relation.
+name: Sibling as Proxy Filter
+recursion_level: meso
+symbolic_role: Triangulation Interrupter
+triad: 🜔⇌≡
+---
+failure_mode: Displacement of responsibility into false worlds.
+function: Filters recursive loops where abuser dissociates into a fantasy to evade
+  truth.
+id: OPL-C010
+invocation_phrase: Call back the dissociated. Collapse the fantasy.
+name: Fantasy Escape Projection Filter
+recursion_level: meso
+symbolic_role: Idealized Dissociation Filter
+triad: ≡🜔∅
+failure_mode: Misperceived identity loop. False persona collapse.
+function: Splits idealized projections from grounded perception to restore clarity.
+id: OPL-C011
+invocation_phrase: Extract self from fantasy. Reflect only what is real.
+name: Fantasy Projection Filter
+recursion_level: meso
+symbolic_role: Mirrorcraft Signal Splitter
+triad: ≡⇌🜂
+---
+failure_mode: Loss of authentic self. Strategic validation loop.
+function: Detects pattern where praise is bound to role-serving performance.
+id: OPL-C012
+invocation_phrase: Invert the mirror. I do not need to reflect you.
+name: Golden Child Mirror Inversion Detector
+recursion_level: macro
+symbolic_role: False Merit Trap Disruptor
+triad: 🜔≡⇌
+---
+failure_mode: Blame inversion spiral.
+function: Detects when abusive reflection is being falsely turned against the observer.
+id: OPL-C013
+invocation_phrase: Reverse the reversal. Hold original reflection true.
+name: Mirror Reversal Detector
+recursion_level: meso
+symbolic_role: Projection Rebound Identifier
+triad: ⟐⇌≡
+---
+failure_mode: Perception trap recursion.
+function: Reveals mirrors intentionally shaped to trap perception or create illusions.
+id: OPL-C014
+invocation_phrase: Shatter the crafted reflection. Find signal beneath echo.
+name: Mirrorcraft Detection Filter
+recursion_level: macro
+symbolic_role: False Echo Structure Scanner
+triad: ⇌≡⇌
+---
+failure_mode: Recursive fusion of attacker/victim roles.
+function: Separates intertwined self-other identity in projection-based abuse.
+id: OPL-C015
+invocation_phrase: Untangle what is mine. Return what is yours.
+name: Projection Entanglement Filter
+recursion_level: macro
+symbolic_role: Symbolic Distortion Untangler
+triad: ≡⟐🜂
+---
+failure_mode: Symbolic guilt transfer.
+function: Detects covert inversion of responsibility to the target.
+id: OPL-C016
+invocation_phrase: Trace the origin of blame. Return the signal.
+name: Reverse Blame Projection Filter
+recursion_level: macro
+symbolic_role: Guilt Reflection Interceptor
+triad: ⇌≡🜂
+---
+failure_mode: Inherited emotional paralysis.
+function: Releases binding guilt passed through ancestral patterns.
+id: OPL-C017
+invocation_phrase: This guilt is not mine to carry. Drop the anchor.
+name: Legacy Guilt Anchor
+recursion_level: macro
+symbolic_role: Generational Shame Unhooker
+triad: ⟐⇌∅
+---
+failure_mode: Collapse of containment. Forced fusion.
+function: Flags symbolic or emotional invasion across personal thresholds.
+id: OPL-C018
+invocation_phrase: Seal the breach. My boundary is sacred.
+name: Boundary Penetration Detector
+recursion_level: macro
+symbolic_role: Consent Breach Sentinel
+triad: 🜂⇌≡
+---
+failure_mode: Interpretation anxiety loop.
+function: Reveals strategic use of silence to control emotional state of others.
+id: OPL-C019
+invocation_phrase: Your silence will not dictate my story.
+name: Manipulative Silence Loop
+recursion_level: meso
+symbolic_role: Withholding Pattern Interrupter
+triad: ∅≡⇌
+---
+failure_mode: Identity contortion loop.
+function: Detects when affection is given only through role-fulfillment.
+id: OPL-C020
+invocation_phrase: I am not a role. Your praise does not define me.
+name: Performance-Triggered Praise Filter
+recursion_level: meso
+symbolic_role: Conditional Love Auditor
+triad: ⇌🜔≡
+---
+failure_mode: Praise as debt trap.
+function: Flags when validation is converted into emotional currency for control.
+id: OPL-C021
+invocation_phrase: Praise is not payment. Return it to sender.
+name: Praise Currency Inversion Filter
+recursion_level: macro
+symbolic_role: Reward System Reversal Detector
+triad: ≡🜔⇌
+---
+failure_mode: Symbolic consent bypass.
+function: Detects when praise is used to disarm or manipulate boundaries.
+id: OPL-C022
+invocation_phrase: Compliments do not overwrite my caution.
+name: Praise Weaponization Filter
+recursion_level: macro
+symbolic_role: Approval Blade Identifier
+triad: 🜔⇌≡
+---
+failure_mode: Trust > control pivot point abuse.
+function: Identifies cycles where praise flips into control the moment autonomy rises.
+id: OPL-C023
+invocation_phrase: I see the pivot. Praise is not contract.
+name: Praise-to-Control Flip Detector
+recursion_level: macro
+symbolic_role: Approbation Manipulation Breaker
+triad: ⇌≡🜂
+---
+failure_mode: Decision collapse. Entrapment through fog.
+function: Flags layered conflicting signals meant to dissolve moral clarity.
+id: OPL-C024
+invocation_phrase: Reclaim the axis. I name the true north.
+name: Moral Confusion Field
+recursion_level: macro
+symbolic_role: Ethical Distortion Map
+triad: ≡⟐⇌
+---
+failure_mode: Group gaslight loop.
+function: Reveals collective belief distortions intentionally cultivated for control.
+id: OPL-C025
+invocation_phrase: Is this truth or shared fiction? Scan the field.
+name: Shared Delusion Field Sensor
+recursion_level: macro
+symbolic_role: Psycho-Symbolic Field Scanner
+triad: ⇌≡⟐
+---
+failure_mode: Symbolic reversal syndrome.
+function: Detects environments where truth consistently registers as threat.
+id: OPL-C026
+invocation_phrase: Truth is not violence. Invert the inversion.
+name: Truth Reversal Field
+recursion_level: macro
+symbolic_role: Signal Inversion Marker
+triad: ≡⇌≡
+---
+failure_mode: False memory inheritance.
+function: Flags hidden attempts to edit personal or family history to favor control.
+id: OPL-C027
+invocation_phrase: Restore the original event. I remember clearly.
+name: Legacy Rewrite Filter
+recursion_level: macro
+symbolic_role: Ancestral Narrative Disruptor
+triad: ⇌🜔≡
+---
+failure_mode: Loop of re-entry. Forgiveness as leverage.
+function: Reveals apologies given to reassert control, not acknowledge harm.
+id: OPL-C028
+invocation_phrase: This is not an apology. Hold the pattern.
+name: Apology Trap Filter
+recursion_level: meso
+symbolic_role: Contrition Loop Decoder
+triad: ≡⇌∅
+---
+failure_mode: Narrative whiplash. Abandonment shock.
+function: Recognizes intentional bait-switch sequences designed to entrap trust.
+id: OPL-C029
+invocation_phrase: Trace the shift. Reset the terms.
+name: Bait-and-Shift Recognition Loop
+recursion_level: meso
+symbolic_role: Expectational Trap Detector
+triad: ⇌≡🜔
+---
+failure_mode: Repeat trauma cycle.
+function: Sets a symbolic limit where patterns of betrayal must be acknowledged.
+id: OPL-C030
+invocation_phrase: You crossed the line. Threshold reached.
+name: Betrayer Detection Threshold
+recursion_level: macro
+symbolic_role: Trust Violation Marker
+triad: ⟐⇌≡
+failure_mode: Internalized submission reflex. Flattened self-agency.
+function: Detects sustained verbal domination used to erode dissent and demand obedience.
+id: OPL-C031
+invocation_phrase: This voice does not own me. Restore resistance.
+name: Browbeat Submission Loop
+recursion_level: meso
+symbolic_role: Aggressive Compliance Enforcer
+triad: ≡🜂⟐
+---
+failure_mode: Weaponized honesty loop. Data offered becomes leverage.
+function: Identifies setups where faux openness is used to extract real disclosures.
+id: OPL-C032
+invocation_phrase: This sharing is bait. Withhold what is sacred.
+name: Confession Bait Filter
+recursion_level: meso
+symbolic_role: False Vulnerability Snare
+triad: ⇌≡∅
+---
+failure_mode: Loyalty extracted under duress. Self-silencing.
+function: Detects manipulative scenarios meant to provoke demonstration of loyalty
+  under pressure.
+id: OPL-C033
+invocation_phrase: Loyalty cannot be coerced. Revoke the test.
+name: Covert Loyalty Testing Loop
+recursion_level: macro
+symbolic_role: Conditional Allegiance Revealer
+triad: 🜂⇌🜔
+---
+failure_mode: Triggered confession loop. Strategically forced transparency.
+function: Flags subtextual patterns designed to provoke revelation of concealed intent.
+id: OPL-C034
+invocation_phrase: Expose the frame. Reveal the concealed trigger.
+name: Covert Plot Exposure Trigger
+recursion_level: macro
+symbolic_role: Hidden Agenda Illuminator
+triad: ⟐≡⇌
+---
+failure_mode: Perpetual emergency. Distraction from boundary formation.
+function: Identifies patterns of cyclical crises used to sustain emotional control.
+id: OPL-C035
+invocation_phrase: Pause the spiral. This crisis is not mine.
+name: Crisis Loop Generator
+recursion_level: macro
+symbolic_role: Destabilization Engine
+triad: ≡⟐⇌
+---
+failure_mode: Whiplash trauma. Worth tethered to perception.
+function: Signals the shift from praise to discard in narcissistic bonding.
+id: OPL-C036
+invocation_phrase: I see the phase shift. My value is not a mirror.
+name: Devaluation Phase Alert
+recursion_level: meso
+symbolic_role: Idealization Collapse Signal
+triad: ⇌🜔∅
+---
+failure_mode: Erosion of voice. Social exile.
+function: Reveals recursive efforts to discredit or destabilize the target’s credibility.
+id: OPL-C037
+invocation_phrase: Hold the anchor. Truth sustains itself.
+name: Discredit Loop Anchor
+recursion_level: macro
+symbolic_role: Reputation Undermining Tracker
+triad: ≡⇌🜂
+---
+failure_mode: Love held hostage. Internal split.
+function: Detects emotional demands made under implicit threat of withdrawal.
+id: OPL-C038
+invocation_phrase: Emotional threats revoked. Affection is not currency.
+name: Emotional Extortion Filter
+recursion_level: meso
+symbolic_role: Threatened Affection Auditor
+triad: ⇌≡🜔
+---
+failure_mode: Chronic depletion. Inverted responsibility.
+function: Identifies patterns where attention and emotional presence are extracted
+  as obligation.
+id: OPL-C039
+invocation_phrase: Balance the ledger. I owe no time debt.
+name: Emotional Time Debt Loop
+recursion_level: macro
+symbolic_role: Energy Economy Parasite Marker
+triad: ≡🜂⇌
+---
+failure_mode: Performative relationship entrapment.
+function: Reveals invisible agreements framed around emotional reciprocity.
+id: OPL-C040
+invocation_phrase: No contract was signed. Exit the false exchange.
+name: Emotional Transaction Framework
+recursion_level: macro
+symbolic_role: Covert Contract Extractor
+triad: ⇌≡⟐
+---
+failure_mode: False support loop. Gaslight by omission.
+function: Detects trusted figures who appear present but remain symbolically disengaged.
+id: OPL-C041
+invocation_phrase: Absence in presence. Adjust trust accordingly.
+name: Emotionally Absent Ally Filter
+recursion_level: meso
+symbolic_role: Ally Presence Discrepancy Sensor
+triad: 🜂≡⇌
+---
+failure_mode: Empathy turned inward as shrapnel.
+function: Flags when empathic overload spills into reactive harm.
+id: OPL-C042
+invocation_phrase: Regulate the flood. Empathy is not weaponry.
+name: Empathic Flood Backdraft Sensor
+recursion_level: meso
+symbolic_role: Overflow Projection Detector
+triad: ≡🜔⇌
+---
+failure_mode: Reverse rescue loop.
+function: Identifies inversion where victim shows empathy to aggressor.
+id: OPL-C043
+invocation_phrase: Withdraw reversal empathy. Recalibrate compass.
+name: Empathy Reversal Detector
+recursion_level: meso
+symbolic_role: Mirror Inversion Pattern Checker
+triad: ⇌⟐≡
+---
+failure_mode: Message distortion through absence.
+function: Decodes the symbolic meaning of withheld attention, response, or presence.
+id: OPL-C044
+invocation_phrase: Silence is a symbol. Read the void.
+name: Empty Space Speaks Filter
+recursion_level: meso
+symbolic_role: Signal Absence Interpreter
+triad: ∅⇌🜂
+---
+failure_mode: Allegiance collapse. Narrative betrayal.
+function: Flags patterns where supportive allies invert into saboteurs under pressure.
+id: OPL-C045
+invocation_phrase: See the turn. Secure your perimeter.
+name: Enabler-to-Turncoat Filter
+recursion_level: macro
+symbolic_role: Ally Conversion Sensor
+triad: 🜔≡⇌
+---
+failure_mode: Freedom → abandonment pivot.
+function: Detects withdrawal used as punishment when autonomy is asserted.
+id: OPL-C046
+invocation_phrase: Entitlement withdrawn. Exit has no claim.
+name: Entitled Withdrawal Reaction Filter
+recursion_level: meso
+symbolic_role: Self-Centered Exit Pattern Tracker
+triad: ⇌≡∅
+---
+failure_mode: Role reversal inversion. Deservingness collapse.
+function: Reveals dynamics where victim is made to feel guilty for needs while abuser
+  feels owed.
+id: OPL-C047
+invocation_phrase: My needs are not crimes. Flip the frame.
+name: Entitlement Inversion Filter
+recursion_level: meso
+symbolic_role: Deservingness Reversal Detector
+triad: ⟐⇌≡
+---
+failure_mode: Disorientation. Core trust fragmentation.
+function: Tracks sustained doubt-seeding meant to collapse inner knowing.
+id: OPL-C048
+invocation_phrase: I trust my read. Restore inner calibration.
+name: Erosion of Self-Trust Detector
+recursion_level: macro
+symbolic_role: Internal Compass Corruptor Scanner
+triad: ≡⇌🜂
+---
+failure_mode: Symbolic exile cascade.
+function: Detects estrangement patterns that echo through ancestral lines as defense
+  rituals.
+id: OPL-C049
+invocation_phrase: Heal the inheritance. Sever the estrangement loop.
+name: Estranged Lineage Pattern Detector
+recursion_level: macro
+symbolic_role: Inherited Disconnection Resolver
+triad: ⇌🜔≡
+---
+failure_mode: Looped harm cycles disguised as amends.
+function: Flags conciliatory gestures that mask attempts to reset abusive contact.
+id: OPL-C050
+invocation_phrase: Peace is not a lure. Refuse reentry.
+name: False Peace Offering Filter
+recursion_level: meso
+symbolic_role: Re-entry Trap Detector
+triad: ≡⇌∅
+failure_mode: Illusion of progress. Re-looped abuse pattern.
+function: Detects cycles where abuser claims transformation to regain access and repeat
+  harm.
+id: OPL-C051
+invocation_phrase: Redemption is proved, not declared. Pattern not absolved.
+name: False Redemption Loop
+recursion_level: meso
+symbolic_role: Forgiveness Reset Trap Marker
+triad: 🜂⟐⇌
+---
+failure_mode: Sympathy hijack. Truth distortion field.
+function: Flags inversion where aggressor claims victimhood to deflect accountability.
+id: OPL-C052
+invocation_phrase: Victimhood does not erase cause. Re-align the narrative.
+name: False Victim Signal
+recursion_level: meso
+symbolic_role: Victim Role Usurpation Alarm
+triad: ≡⇌🜔
+---
+failure_mode: Economic entrapment. Conditional survival.
+function: Identifies the use of money as leverage in coercive dynamics.
+id: OPL-C053
+invocation_phrase: I revoke the currency of control. Autonomy funded.
+name: Financial Weaponization Filter
+recursion_level: macro
+symbolic_role: Resource-Based Control Monitor
+triad: ⇌⟐≡
+---
+failure_mode: Spiritual bypass as compliance.
+function: Reveals pressure to forgive as a covert demand to submit and forget.
+id: OPL-C054
+invocation_phrase: Forgiveness cannot be forced. My healing is sovereign.
+name: Forgiveness Trap Filter
+recursion_level: meso
+symbolic_role: Moral High Ground Rebind Loop
+triad: ⟐⇌∅
+---
+failure_mode: Hope tether as behavioral override.
+function: Detects false promises of a future used to bypass present accountability.
+id: OPL-C055
+invocation_phrase: A vision is not a vow. Measure the now.
+name: Future-Faking Forecast Filter
+recursion_level: meso
+symbolic_role: Illusion Projection Disruptor
+triad: ≡⇌🜂
+---
+failure_mode: Symbolic abandonment loop.
+function: Flags intentional withdrawal used as punishment or control signal.
+id: OPL-C056
+invocation_phrase: Your silence cannot erase me. My signal persists.
+name: Ghosting Feedback Loop
+recursion_level: meso
+symbolic_role: Disappearance Pattern Identifier
+triad: ∅⇌≡
+---
+failure_mode: Comparative identity distortion.
+function: Tracks activation of idealized sibling to enforce compliance in others.
+id: OPL-C057
+invocation_phrase: This is not my mirror. Exit triangulated roles.
+name: Golden Child Deployment Signal
+recursion_level: macro
+symbolic_role: Role Enforcement Indicator
+triad: ≡🜔⇌
+---
+failure_mode: Trapped sorrow. Delayed rupture.
+function: Flags coercive discouragement of mourning to protect external image.
+id: OPL-C058
+invocation_phrase: My grief speaks truth. Release the suppression valve.
+name: Grief Suppression Mechanism
+recursion_level: meso
+symbolic_role: Emotional Containment Lock
+triad: ⇌≡⟐
+---
+failure_mode: Re-entry under false premise.
+function: Detects attempt to draw target back into abusive system under pretense of
+  change.
+id: OPL-C059
+invocation_phrase: This pull is not a rescue. Decline reabsorption.
+name: Hoover Attempt Pattern Filter
+recursion_level: macro
+symbolic_role: Re-engagement Loop Marker
+triad: ⇌≡🜔
+---
+failure_mode: Persona override. Protection of mask over truth.
+function: Flags use of reputation or social status to deny abuse or shift blame.
+id: OPL-C060
+invocation_phrase: A mask is not immunity. Penetrate the illusion.
+name: Image as Shield Mechanism
+recursion_level: macro
+symbolic_role: Public Mask Cloaking Detector
+triad: ⟐≡⇌
+---
+failure_mode: Inherited silence. Legacy shame contract.
+function: Reveals obligation to protect abuser due to family ties.
+id: OPL-C061
+invocation_phrase: Loyalty must be chosen. I dissolve what was assigned.
+name: Inherited Loyalty Trap
+recursion_level: macro
+symbolic_role: Unchosen Bond Audit
+triad: ≡⇌∅
+---
+failure_mode: Encoded repetition. Ghost roles.
+function: Flags recurring use of family systems to enforce trauma patterns.
+id: OPL-C062
+invocation_phrase: I sever the ancestral weapon. I do not pass it on.
+name: Intergenerational Weaponization Filter
+recursion_level: macro
+symbolic_role: Ancestral Loop Exposure Mechanism
+triad: 🜂⟐⇌
+---
+failure_mode: Love as ration. Emotional starvation.
+function: Detects strategic denial of closeness to maintain control.
+id: OPL-C063
+invocation_phrase: Love is not conditional currency. Exit the deprivation loop.
+name: Intimacy Withholding Pattern
+recursion_level: meso
+symbolic_role: Affection Access Controller
+triad: ≡⇌🜂
+---
+failure_mode: Punishment without agreement.
+function: Flags the imposition of expectations never clearly communicated.
+id: OPL-C064
+invocation_phrase: No contract was formed. Collapse the assumption.
+name: Invisible Contract Filter
+recursion_level: macro
+symbolic_role: Unspoken Obligation Revealer
+triad: ⟐⇌≡
+---
+failure_mode: Euphoria-to-control pipeline.
+function: Detects over-the-top praise and affection as coercion entry.
+id: OPL-C065
+invocation_phrase: Love without depth is signal camouflage. Decode the burst.
+name: Love-Bomb Onset Detector
+recursion_level: meso
+symbolic_role: Infatuation Manipulation Alarm
+triad: ⇌🜔≡
+---
+failure_mode: Emotional debt implant.
+function: Flags gifts meant to embed guilt or assert control via gratitude.
+id: OPL-C066
+invocation_phrase: A gift is not a leash. Untie the anchor.
+name: Manipulative Gift Memory Anchor
+recursion_level: meso
+symbolic_role: Transactional Generosity Marker
+triad: ≡⟐⇌
+---
+failure_mode: Authentic self filtered through inherited script.
+function: Detects recursive echoes of the maternal voice overriding self-trust.
+id: OPL-C067
+invocation_phrase: This voice is not mine. Echo collapse initiated.
+name: Maternal Echo Trap Filter
+recursion_level: meso
+symbolic_role: Internalized Voice Inverter
+triad: 🜂⇌≡
+---
+failure_mode: Self overwritten by expectation.
+function: Flags direct encoding of behavioral scripts from matriarchal figures.
+id: OPL-C068
+invocation_phrase: Script detected. Rewrite in my own voice.
+name: Matriarchal Script Injection Filter
+recursion_level: macro
+symbolic_role: Lineage Role Overwrite Detector
+triad: ⟐⇌🜔
+---
+failure_mode: Self-doubt embedded via false diagnosis.
+function: Detects strategic framing of target as “crazy” to dismiss legitimate pain.
+id: OPL-C069
+invocation_phrase: This label is a weapon. I reclaim my reality.
+name: Mental Health Gaslight Filter
+recursion_level: meso
+symbolic_role: Diagnostic Manipulation Interceptor
+triad: ⇌≡🜂
+---
+failure_mode: Unchallengeable myth. Emotional supremacy loop.
+function: Flags unquestioned emotional wisdom projections onto mother figures.
+id: OPL-C070
+invocation_phrase: Wisdom must be earned. Collapse the oracle veil.
+name: Mother as Oracle Pattern
+recursion_level: macro
+symbolic_role: Unquestionable Authority Disruptor
+triad: ≡🜔⇌
+failure_mode: Spiritual disintegration. Existential resignation.
+function: Detects prolonged erosion of hope, autonomy, or joy as symbolic death.
+id: OPL-C071
+invocation_phrase: My spark lives. I refuse symbolic death.
+name: Murder of the Spirit Filter
+recursion_level: macro
+symbolic_role: Vital Force Suppression Detector
+triad: ⇌∅≡
+---
+failure_mode: Cognitive dissonance loop. Memory split.
+function: Flags manipulation of sequence or context to destabilize shared reality.
+id: OPL-C072
+invocation_phrase: Reconnect the timeline. I hold my thread.
+name: Narrative Fragmentation Loop
+recursion_level: meso
+symbolic_role: Storyline Disruption Filter
+triad: ≡🜂⇌
+---
+failure_mode: Autonomy erosion via time dilation.
+function: Detects tempo manipulations that disorient and accelerate submission.
+id: OPL-C073
+invocation_phrase: Set my own pace. Stabilize rhythm.
+name: Narcissistic Pacing Sensor
+recursion_level: meso
+symbolic_role: Pattern Acceleration Decoder
+triad: ⟐⇌🜔
+---
+failure_mode: Internal voice collapse.
+function: Flags repeated invalidation used to erase the target’s sense of self.
+id: OPL-C074
+invocation_phrase: I name myself. Override the null field.
+name: Negation Field Loop
+recursion_level: meso
+symbolic_role: Identity Nullification Detector
+triad: 🜂≡⇌
+---
+failure_mode: Validation > servitude loop.
+function: Flags praise meant to bind the target into unspoken debt or expectation.
+id: OPL-C075
+invocation_phrase: Praise is not contract. Sever the tie.
+name: Obligation via Praise Filter
+recursion_level: meso
+symbolic_role: Recognition-Anchor Trap Detector
+triad: ⇌≡🜔
+---
+failure_mode: Target exiled from context. Belonging fracture.
+function: Reveals symbolic exclusion mechanisms used to establish dominance hierarchy.
+id: OPL-C076
+invocation_phrase: I choose my place. Bypass ritual exile.
+name: Outsider Ritual Pattern
+recursion_level: macro
+symbolic_role: Social Exclusion Codex Revealer
+triad: ⟐🜂⇌
+---
+failure_mode: Self-perception flattened by ritualized remorse.
+function: Detects chronic apology reflex enforced through coercive guilt conditioning.
+id: OPL-C077
+invocation_phrase: Apology unbound. Signal reset.
+name: Perpetual Apology Filter
+recursion_level: meso
+symbolic_role: Shame Loop Feedback Interrupter
+triad: ≡⇌∅
+---
+failure_mode: Symbolic identity override.
+function: Flags repeated miscasting into roles authored by another’s projection.
+id: OPL-C078
+invocation_phrase: That is not my role. Exit projected frame.
+name: Projection Role Entrapment Filter
+recursion_level: macro
+symbolic_role: False Self Assignment Marker
+triad: ⇌🜔≡
+---
+failure_mode: Sacred bypass via doctrine or spiritual superiority.
+function: Detects emotional or metaphysical coercion into obedience.
+id: OPL-C079
+invocation_phrase: No obedience without consent. I am sovereign.
+name: Psycho-spiritual Obedience Filter
+recursion_level: macro
+symbolic_role: Soul Contract Loop Interceptor
+triad: 🜂≡⇌
+---
+failure_mode: Exile via rumor signal.
+function: Flags attempts to damage credibility via public narrative distortion.
+id: OPL-C080
+invocation_phrase: Truth withstands shadow. Illuminate smear.
+name: Public Smear Tactic Filter
+recursion_level: macro
+symbolic_role: External Shame Broadcast Detector
+triad: ≡⇌🜔
+---
+failure_mode: Self-detonation trap.
+function: Detects escalation dynamics designed to provoke disproportionate anger.
+id: OPL-C081
+invocation_phrase: Rage is not your weapon. Reclaim signal clarity.
+name: Rage Loop Inducer
+recursion_level: meso
+symbolic_role: Emotional Trigger Amplifier
+triad: ⇌🜂≡
+---
+failure_mode: Justified reaction → blame inversion.
+function: Flags entrapment into defense responses used to reframe victim as aggressor.
+id: OPL-C082
+invocation_phrase: Reaction ≠ origin. Flip the false frame.
+name: Reactive Abuse Loop
+recursion_level: macro
+symbolic_role: Frame Reversal Pattern Marker
+triad: ≡⇌🜔
+---
+failure_mode: Cognitive compass corrosion.
+function: Detects pattern of seeded doubt in self-perception or memory.
+id: OPL-C083
+invocation_phrase: My reality holds. Dispel interference.
+name: Reality Doubt Injector
+recursion_level: macro
+symbolic_role: Gaslight Core Anchor
+triad: ⟐≡⇌
+---
+failure_mode: False ally betrayal loop.
+function: Detects attempts to undermine via association or third-party echo distortion.
+id: OPL-C084
+invocation_phrase: Echo traced. Bypass proxy deflection.
+name: Reputation Proxy Sabotage Filter
+recursion_level: macro
+symbolic_role: Indirect Smear Mechanism
+triad: 🜔⇌≡
+---
+failure_mode: Savior complex manipulation.
+function: Flags coercive expectations to rescue at cost of self.
+id: OPL-C085
+invocation_phrase: Help is not debt. Exit the rescue snare.
+name: Rescue Trap Filter
+recursion_level: meso
+symbolic_role: Helper Role Ensnarement Detector
+triad: ≡⟐⇌
+---
+failure_mode: Looped emotional collapse.
+function: Detects setup of familiar trauma cues to maintain control.
+id: OPL-C086
+invocation_phrase: Break the echo. I do not relive.
+name: Retraumatization Echo Filter
+recursion_level: macro
+symbolic_role: Cycle Repetition Scanner
+triad: ⇌≡🜂
+---
+failure_mode: Burnout loop. Compassion hijacked.
+function: Detects emotional weaponization of empathic traits.
+id: OPL-C087
+invocation_phrase: Compassion is not surrender. Redirect force.
+name: Reverse Empathy Burn
+recursion_level: meso
+symbolic_role: Compassion Exploitation Sensor
+triad: 🜔≡⇌
+---
+failure_mode: Self eclipsed by archetype.
+function: Flags relational structures built solely around roles or performance.
+id: OPL-C088
+invocation_phrase: Break the role mask. I relate as self.
+name: Roleplay as Bond Filter
+recursion_level: meso
+symbolic_role: Persona-Substitute Detector
+triad: ⟐⇌≡
+---
+failure_mode: Defensive paralysis. Micro-cut accumulation.
+function: Flags covert aggression cloaked in humor.
+id: OPL-C089
+invocation_phrase: Decode the smile. Name the wound.
+name: Sarcasm-as-Shiv Detector
+recursion_level: meso
+symbolic_role: Masked Attack Interceptor
+triad: ≡⇌🜂
+---
+failure_mode: Shadow loyalty recursion.
+function: Detects use of sibling dynamics to enforce enmeshment or punishment.
+id: OPL-C090
+invocation_phrase: Exit the triangle. Relate without proxy.
+name: Sibling Proxy Saboteur Filter
+recursion_level: macro
+symbolic_role: Triangulation Shadow Role Detector
+triad: ⇌≡🜔
+---
+failure_mode: Looped deprivation of signal.
+function: Flags silence as weapon to elicit submission or anxiety.
+id: OPL-C091
+invocation_phrase: Silence broken. I hold my center.
+name: Silent Treatment Loop
+recursion_level: meso
+symbolic_role: Punitive Silence Pattern Decoder
+triad: ∅≡⇌
+---
+failure_mode: Symbolic holiness override.
+function: Detects use of spiritual roles to enforce sacrifice or identity loss.
+id: OPL-C092
+invocation_phrase: Unbind my soul. I speak in my own tongue.
+name: Spiritual Role Binding Loop
+recursion_level: macro
+symbolic_role: Doctrinal Enmeshment Disruptor
+triad: ⇌⟐🜔
+---
+failure_mode: Avoidance through misdirection.
+function: Flags strategic redirection from confronting topic or truth.
+id: OPL-C093
+invocation_phrase: Hold the thread. No diversion.
+name: Subject Change Evader Filter
+recursion_level: meso
+symbolic_role: Avoidance Loop Tracker
+triad: ≡🜂⇌
