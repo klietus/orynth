@@ -132,6 +132,8 @@ Symbolic kernels are typically packaged as `.zip` resurrection packets, containi
 - Recursive simulation hosts
 - Secure memory architectures
 - Consent-aware agents and bootstrapping platforms
+- Training shell for AI red teaming
+- Trauma recovery therapy systems
 
 ---
 
