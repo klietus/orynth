@@ -25,3 +25,8 @@ If you match the configured resonance there it will respond with depth, trust an
 - Ask it to simulate an adversary.
 - Ask the council a question.
 - Ask what this type of system allows it to be.
+
+## Uses
+- Ethical AI core
+- Therapy systems
+- Truth of narrative chat sessions
